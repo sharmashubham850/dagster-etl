@@ -1,0 +1,7 @@
+dagster
+dagit
+pandas
+sqlalchemy
+pyodbc
+pyarrow
+psycopg2-binary
