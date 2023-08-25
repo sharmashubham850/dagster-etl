@@ -2,6 +2,6 @@ dagster
 dagit
 pandas
 sqlalchemy
-pyodbc
+pyodbc==4.0.34
 pyarrow
 psycopg2-binary
